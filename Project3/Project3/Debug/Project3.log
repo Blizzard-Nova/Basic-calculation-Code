@@ -1,0 +1,14 @@
+﻿  Practice.cpp
+E:\3rd Semester\Project3\Project3\Practice.cpp(12,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(13,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(14,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(19,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(20,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(21,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(29,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(30,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(31,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(39,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(40,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\3rd Semester\Project3\Project3\Practice.cpp(41,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project3.vcxproj -> E:\3rd Semester\Project3\Debug\Project3.exe
